@@ -1,0 +1,226 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{0pt}{0pt}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[c]{0.25\textwidth}
+    \includegraphics[width=0.9\linewidth]{iiitb_logo.png.jpg}
+\end{minipage}
+\hfill
+\begin{minipage}[c]{0.35\textwidth}
+    \raggedleft
+    \textbf{Name:} Udaya Sree Punuru\\
+    \textbf{ID:} COMETFWC067\\
+    \textbf{Date:} \today
+\end{minipage}
+
+\vspace{0.2cm}
+\hrule
+\vspace{0.2cm}
+
+\begin{enumerate}
+
+\item[\textbf{14.}] Evaluate :
+$
+\begin{align}
+\int_{0}^{\frac{\pi}{2}}
+\frac{\sin^2 x}{\sin x + \cos x}\,dx
+\end{align}
+$
+
+\textbf{OR}
+
+Evaluate :
+$
+\begin{align}
+\int_{0}^{\frac{3}{2}}
+[x\cos \pi x]\,dx
+\end{align}
+$
+
+\vspace{0.2cm}
+
+\item[\textbf{15.}] Find :
+$
+\begin{align}
+\int (3x+1)\sqrt{4-3x-2x^2}\,dx
+\end{align}
+$
+
+\vspace{0.2cm}
+
+\item[\textbf{16.}] Solve the differential equation :
+$
+\begin{align}
+y+x\frac{dy}{dx}
+=
+x-y\frac{dy}{dx}
+\end{align}
+$
+
+\vspace{0.2cm}
+
+\item[\textbf{17.}] Form the differential equation of the family of circles in the second quadrant and touching the coordinate axes.
+
+\vspace{0.2cm}
+
+\item[\textbf{18.}] Solve the equation for $x$ :
+$
+\begin{align}
+\sin^{-1}x+\sin^{-1}(1-x)=\cos^{-1}x
+\end{align}
+$
+
+\textbf{OR}
+
+If
+$
+\begin{align}
+\cos^{-1}\frac{x}{a}
++
+\cos^{-1}\frac{y}{b}
+=
+\alpha
+\end{align}
+$
+
+prove that
+$
+\begin{align}
+\frac{x^2}{a^2}
+-
+2\frac{xy}{ab}\cos\alpha
++
+\frac{y^2}{b^2}
+=
+\sin^2\alpha
+\end{align}
+$
+
+\vspace{0.2cm}
+
+\item[\textbf{19.}] A trust invested some money in two type of bonds. The first bond pays $10\%$ interest and second bond pays $12\%$ interest. The trust received Rs.\ $2800$ as interest. However, if trust had interchanged money in bonds, they would have got Rs.\ $100$ less as interest. Using matrix method, find the amount invested by the trust. Interest received on this amount will be given to Helpage India as donation. Which value is reflected in this question?
+
+\vspace{0.2cm}
+
+\item[\textbf{20.}] There are two types of fertilisers `A' and `B'. `A' consists of $12\%$ nitrogen and $5\%$ phosphoric acid whereas `B' consists of $4\%$ nitrogen and $5\%$ phosphoric acid. After testing the soil conditions, farmer finds that he needs at least $12$ kg of nitrogen and $12$ kg of phosphoric acid for his crops. If `A' costs Rs.\ $10$ per kg and `B' costs Rs.\ $8$ per kg, then graphically determine how much of each fertiliser should be used so that nutrient requirements are met at a minimum cost.
+
+\vspace{0.2cm}
+
+\item[\textbf{21.}] Five bad oranges are accidentally mixed with $20$ good ones. If four oranges are drawn one by one successively with replacement, then find the probability distribution of number of bad oranges drawn. Hence find the mean and variance of the distribution.
+
+\vspace{0.2cm}
+
+\item[\textbf{22.}] Find the position vector of the foot of the perpendicular and the perpendicular distance from the point $P$ with position vector
+$
+\begin{align}
+2\hat{i}+3\hat{j}+4\hat{k}
+\end{align}
+$
+
+to the plane
+$
+\begin{align}
+\vec{r}\cdot(2\hat{i}+\hat{j}+3\hat{k})-26=0
+\end{align}
+$
+
+Also find image of $P$ in the plane.
+
+\vspace{0.2cm}
+
+\item[\textbf{23.}] Show that the binary operation $*$ on
+$
+\begin{align}
+A=R-\{-1\}
+\end{align}
+$
+
+defined as
+$
+\begin{align}
+a*b=a+b+ab
+\end{align}
+$
+
+for all $a,b\in A$ is commutative and associative on $A$. Also find the identity element of $*$ in $A$ and prove that every element of $A$ is invertible.
+
+\vspace{0.2cm}
+
+\item[\textbf{24.}] Prove that the least perimeter of an isosceles triangle in which a circle of radius $r$ can be inscribed is
+$
+\begin{align}
+6\sqrt{3}\,r
+\end{align}
+$
+
+\textbf{OR}
+
+If the sum of lengths of hypotenuse and a side of a right angled triangle is given, show that area of triangle is maximum, when the angle between them is
+$
+\begin{align}
+\frac{\pi}{3}
+\end{align}
+$
+
+\vspace{0.2cm}
+
+\item[\textbf{25.}] Prove that the curves
+$
+\begin{align}
+y^2=4x
+\end{align}
+$
+
+and
+$
+\begin{align}
+x^2=4y
+\end{align}
+$
+
+divide the area of square bounded by
+$
+\begin{align}
+x=0,\ x=4,\ y=4
+\end{align}
+$
+
+and
+$
+\begin{align}
+y=0
+\end{align}
+$
+
+into three equal parts.
+
+\vspace{0.2cm}
+
+\item[\textbf{26.}] Using properties of determinants, show that $\triangle ABC$ is isosceles if
+$
+\begin{align}
+\begin{vmatrix}
+1 & 1 & 1 \\
+1+\cos A & 1+\cos B & 1+\cos C \\
+\cos^2 A+\cos A & \cos^2 B+\cos B & \cos^2 C+\cos C
+\end{vmatrix}
+=0
+\end{align}
+$
+
+\textbf{OR}
+
+A shopkeeper has $3$ varieties of pens `A', `B' and `C'. Meenu purchased $1$ pen of each variety for a total of Rs.\ $21$. Jeevan purchased $4$ pens of `A' variety, $3$ pens of `B' variety and $2$ pens of `C' variety for Rs.\ $60$. While Shikhna purchased $6$ pens of `A' variety, $2$ pens of `B' variety and $3$ pens of `C' variety for Rs.\ $70$. Using matrix method, find cost of each variety of pen.
+
+\end{enumerate}
+
+\end{document}
+
+
