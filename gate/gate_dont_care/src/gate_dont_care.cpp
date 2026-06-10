@@ -19,7 +19,7 @@ int P=1;
 int Q=1;
 int R=1;
 
-int F=(!Q)&&((!P)||(!R));
+int F=(!Q)&&(!R);
 
 if(F==1)
 {
