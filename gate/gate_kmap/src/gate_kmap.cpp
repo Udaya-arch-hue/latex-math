@@ -21,7 +21,7 @@ void setup()
 
 void loop()
 {
-  int F=(!Q)&&((!P)||(!R));
+  int F=(!Q)&&(!R);
 
   if(F==1)
   {
