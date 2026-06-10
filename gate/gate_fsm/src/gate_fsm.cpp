@@ -25,7 +25,7 @@ void loop()
   digitalWrite(13,HIGH);
   delay(1000);
 
-  int F=(!Q)&&((!P)||(!R));
+  int F=(!Q)&&(!R);
 
   if(F==1)
   {
