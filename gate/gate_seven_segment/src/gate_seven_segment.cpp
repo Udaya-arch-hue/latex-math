@@ -28,15 +28,15 @@ void loop()
   int Q=0;
   int R=0;
 
-  int F=(!Q)&&((!P)||(!R));
+  int F=(!Q)&&(!R);
 
   if(F==1)
   {
-    sevenseg(1,0,0,1,1,1,1);
+    sevenseg(1,0,0,1,1,1,1); // Display 1
   }
   else
   {
-    sevenseg(0,0,0,0,0,0,1);
+    sevenseg(0,0,0,0,0,0,1); // Display 0
   }
 }
 
