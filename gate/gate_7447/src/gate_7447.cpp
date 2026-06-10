@@ -22,15 +22,15 @@ void loop()
   int Q=0;
   int R=0;
 
-  int F=(!Q)&&((!P)||(!R));
+  int F=(!Q)&&(!R);
 
   if(F==1)
   {
-    disp_7447(0,0,0,1);
+    disp_7447(0,0,0,1); // Display 1
   }
   else
   {
-    disp_7447(0,0,0,0);
+    disp_7447(0,0,0,0); // Display 0
   }
 }
 
