@@ -1,0 +1,4 @@
+$iopadmap$_7447.A   1  31  0  # set_io A 20
+$iopadmap$_7447.B   2  31  0  # set_io B 21
+$iopadmap$_7447.C   3  31  0  # set_io C 22
+$iopadmap$_7447.D   4  32  0  # set_io D 23

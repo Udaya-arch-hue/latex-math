@@ -1,0 +1,3 @@
+#Block Name x   y   z    pcf_line
+#------- --  --  -    ----
+$iopadmap$top.led   1  31  0  # set_io led 20

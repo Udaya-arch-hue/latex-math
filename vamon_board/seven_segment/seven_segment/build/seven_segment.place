@@ -1,0 +1,18 @@
+Netlist_File: seven_segment.net Netlist_ID: SHA256:d4a99530f0b7b41f5c3cf5793b3e6a78dd7a7de0bcc28e9f3e380a072461fca6
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+seg_a_LUT3_O.t_frag	14	31	0	#0
+$iopadmap$seven_segment.seg_d	4	32	0	#1
+$iopadmap$seven_segment.seg_e	6	32	0	#2
+$iopadmap$seven_segment.seg_f	8	32	0	#3
+$iopadmap$seven_segment.seg_a	1	31	0	#4
+$iopadmap$seven_segment.seg_b	2	31	0	#5
+$iopadmap$seven_segment.seg_c	3	31	0	#6
+P		14	32	0	#7
+$iopadmap$seven_segment.seg_g	10	32	0	#8
+Q		16	32	0	#9
+R		12	32	0	#10
+$false		3	1	0	#11
+$true		2	1	0	#12

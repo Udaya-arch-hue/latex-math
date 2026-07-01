@@ -1,0 +1,4 @@
+$iopadmap$seven_segment.A   1  31  0  # set_io A 20
+$iopadmap$seven_segment.B   2  31  0  # set_io B 21
+$iopadmap$seven_segment.C   3  31  0  # set_io C 22
+$iopadmap$seven_segment.D   4  32  0  # set_io D 23
